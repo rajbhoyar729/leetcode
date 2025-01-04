@@ -5,9 +5,11 @@ public:
     int r= height.size()-1;
     int  max_area =0;
     while (l<r){
-     int current_area = (r-l) * min(height[l],height[r]);
-     if(current_area>max_area){
-        max_area = current_area;
+     int h_left = height[l];
+        int h_right = height[r];
+        int area = (r - l) * std::min(h_left, h_right);
+     if(area>max_area){
+        max_area = area;
      }
 
      if (height[l]<height[r]){
