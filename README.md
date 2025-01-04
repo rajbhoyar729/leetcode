@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajbhoyar729/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rajbhoyar729/leetcode/tree/master/0011-container-with-most-water) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajbhoyar729/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajbhoyar729/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajbhoyar729/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajbhoyar729/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rajbhoyar729/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rajbhoyar729/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
