@@ -1,31 +1,27 @@
 class Solution {
-public:
+    public:
+        int countPrefixSuffixPairs(vector<string>& words) {
+                int length = words.size();
+                        
+                                int numPairs = 0;
+                                        for (int i = 0; i < length; ++i) {
+                                                    for (int j = i + 1; j < length; ++j)
+                                                                    numPairs += isPrefixSuffix(words[i], words[j]);
+                                                                            }
 
- bool isPrefixAndSuffix(const string& str1, const string& str2) {
-        if (str2.size() < str1.size()) {
-                return false;
-             }
-    // Check if str1 is a prefix of str2
-   if (str2.substr(0, str1.size()) != str1) {
-     return false;
-         }
-                   // Check if str1 is a suffix of str2
-          if (str2.substr(str2.size() - str1.size()) != str1) {
-            return false;
-              }
-            return true;
-    }
+                                                                                    return numPairs;        
+                                                                                        }
 
-       int countPrefixSuffixPairs(const vector<string>& words) {
-            int count = 0;
-          for (size_t i = 0; i < words.size(); ++i) {
-          for (size_t j = i + 1; j < words.size(); ++j) {
-          if (isPrefixAndSuffix(words[i], words[j])) {
-        count++;
-                                                                                                  }
-   }
-}
-                  return count;
- }
- 
-};
+                                                                                            bool isPrefixSuffix(string word1, string word2) {
+                                                                                                    int length1 = word1.length(), length2 = word2.length();
+
+                                                                                                            if (length1 > length2)
+                                                                                                                        return false;
+
+                                                                                                                                bool flag = true;
+                                                                                                                                        for (int l1 = 0, r1 = length1 - 1, l2 = 0, r2 = length2 - 1; l1 < length1 && r1 >= 0 && l2 < length2 && r2 >= 0 && flag; ++l1, --r1, ++l2, --r2)
+                                                                                                                                                    flag = (word1[l1] == word2[l2]) && (word1[r1] == word2[r2]);
+                                                                                                                                                            
+                                                                                                                                                                    return flag;
+                                                                                                                                                                        }
+                                                                                                                                                                        };
