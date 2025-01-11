@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/rajbhoyar729/leetcode/tree/master/0044-wildcard-matching) |
 | [0952-word-subsets](https://github.com/rajbhoyar729/leetcode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajbhoyar729/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/rajbhoyar729/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajbhoyar729/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajbhoyar729/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajbhoyar729/leetcode/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/rajbhoyar729/leetcode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajbhoyar729/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajbhoyar729/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajbhoyar729/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/rajbhoyar729/leetcode/tree/master/0044-wildcard-matching) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajbhoyar729/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajbhoyar729/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/rajbhoyar729/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
