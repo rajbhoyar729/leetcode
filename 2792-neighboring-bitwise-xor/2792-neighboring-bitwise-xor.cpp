@@ -1,6 +1,6 @@
 class Solution {
     public:
-        static bool doesValidArrayExist(vector<int>& derived) {
-                return (reduce(derived.begin(), derived.end(), 0)&1)==0;
-               }
-                 };
+        bool doesValidArrayExist(vector<int>& derived) {
+                return !accumulate(derived.begin(), derived.end(), 0, bit_xor<int>());
+                    }
+                    };
