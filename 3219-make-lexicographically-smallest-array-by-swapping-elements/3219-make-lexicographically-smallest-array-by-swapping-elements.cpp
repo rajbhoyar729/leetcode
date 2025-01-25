@@ -1,35 +1,40 @@
 class Solution {
- public:
-  vector<int> lexicographicallySmallestArray(vector<int>& nums, int limit) {
-    vector<int> ans(nums.size());
-    vector<vector<pair<int, int>>> numAndIndexesGroups;
-    for (const pair<int, int>& numAndIndex : getNumAndIndexes(nums))
-      if (numAndIndexesGroups.empty() ||
-          numAndIndex.first - numAndIndexesGroups.back().back().first > limit) {
-        numAndIndexesGroups.push_back({numAndIndex});
-      } else {
-        numAndIndexesGroups.back().push_back(numAndIndex);
-      }
-    for (const vector<pair<int, int>>& numAndIndexesGroup : numAndIndexesGroups) {
-      vector<int> sortedNums;
-      vector<int> sortedIndices;
-      for (const auto& [num, index] : numAndIndexesGroup) {
-        sortedNums.push_back(num);
-        sortedIndices.push_back(index);
-      }
-      ranges::sort(sortedIndices);
-      for (int i = 0; i < sortedNums.size(); ++i)
-        ans[sortedIndices[i]] = sortedNums[i];
-    }
-    return ans;
-  }
+public:
+    static vector<int> lexicographicallySmallestArray(vector<int>& nums, int limit) {
+        const int n = nums.size();
+        vector<int> idx(n, 0);
+        iota(idx.begin(), idx.end(), 0);  // Initialize indices
+        
+        // Sort indices based on values in nums
+        stable_sort(idx.begin(), idx.end(), [&](int i, int j) {
+            return nums[i] < nums[j];
+        });
 
- private:
-  vector<pair<int, int>> getNumAndIndexes(const vector<int>& nums) {
-    vector<pair<int, int>> numAndIndexes;
-    for (int i = 0; i < nums.size(); ++i)
-      numAndIndexes.emplace_back(nums[i], i);
-    ranges::sort(numAndIndexes);
-    return numAndIndexes;
-  }
+        vector<vector<int>> group = {{idx[0]}};
+        int prev = nums[idx[0]];
+
+        // Create groups based on the limit condition
+        for (int i = 1; i < n; i++) {
+            int I = idx[i], x = nums[I];
+            if (x - prev <= limit) 
+                group.back().push_back(I);
+             else 
+                group.push_back({I});
+            prev = x;
+        }
+
+        // Sort indices within each group and assign values to nums
+        for (auto& seq : group) {
+            vector<int> values;
+            for (int index : seq) 
+                values.push_back(nums[index]);
+
+            sort(seq.begin(), seq.end());  
+            for (int i = 0; i < seq.size(); i++) {
+                nums[seq[i]] = values[i];
+            }
+        }
+
+        return nums;
+    }
 };
