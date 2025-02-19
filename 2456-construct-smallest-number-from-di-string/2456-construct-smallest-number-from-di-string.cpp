@@ -1,18 +1,17 @@
 class Solution {
 public:
-    string smallestNumber(string& pattern) {
+    string smallestNumber(string pattern) {
         const int n=pattern.size();
-        vector<char> succD(n, 0);
-        succD.back()+=(pattern.back()=='D');
-        for(int i=n-2; i>=0; i--)//O(n)
-            succD[i]=(pattern[i]=='D')?succD[i+1]+1:0;
-        string ans(n+1, ' ');// O(n)
-        iota(ans.begin(), ans.end(), '1');//O(n)
-        for(int i=0; i<n; i++){//O(n)
-            if (pattern[i]=='D'){
-                reverse(ans.begin()+i, ans.begin()+i+1+succD[i]);
+        string ans(n+1, '0');
+        for(int i=0, succD=0; i<=n; i++){
+            while(i<n && pattern[i]=='D'){
+                succD++;
+                i++;
             }
-            i+=succD[i];// jump i
+            char c=i+'1';
+            for(int j=0; j<=succD; j++)
+                ans[i-j]=c-succD+j;
+            succD=0;
         }
         return ans;
     }
