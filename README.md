@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rajbhoyar729/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rajbhoyar729/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/rajbhoyar729/leetcode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/rajbhoyar729/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/rajbhoyar729/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/rajbhoyar729/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/rajbhoyar729/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/rajbhoyar729/leetcode/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajbhoyar729/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajbhoyar729/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3430-count-days-without-meetings](https://github.com/rajbhoyar729/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
 |  |
 | ------- |
