@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajbhoyar729/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/rajbhoyar729/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0797-rabbits-in-forest](https://github.com/rajbhoyar729/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/rajbhoyar729/leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rajbhoyar729/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajbhoyar729/leetcode/tree/master/0001-two-sum) |
 | [0768-partition-labels](https://github.com/rajbhoyar729/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/rajbhoyar729/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rajbhoyar729/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/rajbhoyar729/leetcode/tree/master/0952-word-subsets) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajbhoyar729/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/rajbhoyar729/leetcode/tree/master/0044-wildcard-matching) |
 | [0768-partition-labels](https://github.com/rajbhoyar729/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/rajbhoyar729/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajbhoyar729/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rajbhoyar729/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rajbhoyar729/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/rajbhoyar729/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajbhoyar729/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajbhoyar729/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajbhoyar729/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
