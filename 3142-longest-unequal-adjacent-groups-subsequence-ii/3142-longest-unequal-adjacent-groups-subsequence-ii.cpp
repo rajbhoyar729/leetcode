@@ -1,41 +1,38 @@
 class Solution {
 public:
-    bool differByOneChar(string word1, string word2) {
-        if (word1.length() != word2.length()) return false;
-        int diffCount = 0;
-        for (int i = 0; i < word1.length(); i++) 
-            diffCount += word1[i] != word2[i];
-        return diffCount == 1;
+    static bool hamming1(string& s, string& t){
+        const int sz=s.size();
+        if (sz!=t.size()) return 0;
+        int diff=0;
+        for (int i=0; i<sz && diff<2; i++)
+            diff+=s[i]!= t[i];
+        return diff== 1;
     }
-    
-    vector<string> getWordsInLongestSubsequence(vector<string>& words, vector<int>& groups) {
-        int n = groups.size();
-        vector<int> dp(n, 1), parent(n, -1);
-        int maxi = 0;
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (groups[i] != groups[j] && 
-                        differByOneChar(words[i], words[j]) && 
-                            dp[i] < dp[j] + 1) {
-                    dp[i] = dp[j] + 1;
-                    parent[i] = j;
+
+    static vector<string> getWordsInLongestSubsequence(vector<string>& words, vector<int>& groups) {
+        const int n=words.size();
+        int maxLen=0, pos=-1;
+        int* dp=(int*)alloca(n*4);
+        fill(dp, dp+n, 1);
+        int* prev=(int*)alloca(n*4);
+        fill(prev, prev+n, -1);
+        for(int i=0; i<n; i++){
+            for(int j=0; j<i; j++){
+                if(groups[i]!=groups[j] && hamming1(words[i], words[j]) 
+                && dp[j]+1>dp[i]){
+                    dp[i]=dp[j]+1;
+                    prev[i]=j;
                 }
             }
-            maxi = max(maxi, dp[i]);
-        }
-        
-        vector<string> result;
-        for (int i = 0; i < n; i++) {
-            if (maxi == dp[i]) {
-                while (i != -1) {
-                    result.push_back(words[i]);
-                    i = parent[i];
-                }
-                break;
+            if(dp[i]>maxLen){
+                maxLen=dp[i];
+                pos=i;
             }
         }
-        reverse(result.begin(), result.end());
-        return result;
+        vector<string> ans(maxLen);
+        for(; pos!=-1; pos=prev[pos]){
+            ans[--maxLen]=words[pos];
+        }
+        return ans;
     }
 };
