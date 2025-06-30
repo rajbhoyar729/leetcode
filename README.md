@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rajbhoyar729/leetcode/tree/master/0031-next-permutation) |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/rajbhoyar729/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/rajbhoyar729/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/rajbhoyar729/leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajbhoyar729/leetcode/tree/master/0001-two-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/rajbhoyar729/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rajbhoyar729/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/rajbhoyar729/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rajbhoyar729/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/rajbhoyar729/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/rajbhoyar729/leetcode/tree/master/0948-sort-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajbhoyar729/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajbhoyar729/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajbhoyar729/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rajbhoyar729/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rajbhoyar729/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
