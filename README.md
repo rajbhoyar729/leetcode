@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rajbhoyar729/leetcode/tree/master/0044-wildcard-matching) |
+| [0118-pascals-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0806-domino-and-tromino-tiling](https://github.com/rajbhoyar729/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/rajbhoyar729/leetcode/tree/master/0868-push-dominoes) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajbhoyar729/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajbhoyar729/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajbhoyar729/leetcode/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/rajbhoyar729/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0594-longest-harmonious-subsequence) |
