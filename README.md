@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/rajbhoyar729/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/rajbhoyar729/leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/rajbhoyar729/leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/rajbhoyar729/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajbhoyar729/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rajbhoyar729/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/rajbhoyar729/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/rajbhoyar729/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/rajbhoyar729/leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/rajbhoyar729/leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/rajbhoyar729/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rajbhoyar729/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/rajbhoyar729/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/rajbhoyar729/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rajbhoyar729/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/rajbhoyar729/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/rajbhoyar729/leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/rajbhoyar729/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/rajbhoyar729/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rajbhoyar729/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rajbhoyar729/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
