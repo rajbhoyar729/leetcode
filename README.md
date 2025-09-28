@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/rajbhoyar729/leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/rajbhoyar729/leetcode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/rajbhoyar729/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/rajbhoyar729/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rajbhoyar729/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/rajbhoyar729/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rajbhoyar729/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/rajbhoyar729/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rajbhoyar729/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rajbhoyar729/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajbhoyar729/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rajbhoyar729/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rajbhoyar729/leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/rajbhoyar729/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/rajbhoyar729/leetcode/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rajbhoyar729/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rajbhoyar729/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/rajbhoyar729/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/rajbhoyar729/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/rajbhoyar729/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/rajbhoyar729/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajbhoyar729/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rajbhoyar729/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rajbhoyar729/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
