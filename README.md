@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rajbhoyar729/leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/rajbhoyar729/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rajbhoyar729/leetcode/tree/master/0037-sudoku-solver) |
+| [0075-sort-colors](https://github.com/rajbhoyar729/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajbhoyar729/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajbhoyar729/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajbhoyar729/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/rajbhoyar729/leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/rajbhoyar729/leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/rajbhoyar729/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/rajbhoyar729/leetcode/tree/master/0768-partition-labels) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajbhoyar729/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rajbhoyar729/leetcode/tree/master/0611-valid-triangle-number) |
