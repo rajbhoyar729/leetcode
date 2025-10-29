@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajbhoyar729/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/0120-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/rajbhoyar729/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/rajbhoyar729/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rajbhoyar729/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rajbhoyar729/leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/rajbhoyar729/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rajbhoyar729/leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rajbhoyar729/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajbhoyar729/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rajbhoyar729/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rajbhoyar729/leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/rajbhoyar729/leetcode/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/rajbhoyar729/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/rajbhoyar729/leetcode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/rajbhoyar729/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/rajbhoyar729/leetcode/tree/master/0868-push-dominoes) |
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajbhoyar729/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/rajbhoyar729/leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/rajbhoyar729/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajbhoyar729/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
