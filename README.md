@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajbhoyar729/leetcode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0474-ones-and-zeroes](https://github.com/rajbhoyar729/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/rajbhoyar729/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/rajbhoyar729/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/rajbhoyar729/leetcode/tree/master/0867-new-21-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rajbhoyar729/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/rajbhoyar729/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rajbhoyar729/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/rajbhoyar729/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/rajbhoyar729/leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajbhoyar729/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rajbhoyar729/leetcode/tree/master/0611-valid-triangle-number) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/rajbhoyar729/leetcode/tree/master/0044-wildcard-matching) |
 | [0165-compare-version-numbers](https://github.com/rajbhoyar729/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rajbhoyar729/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0474-ones-and-zeroes](https://github.com/rajbhoyar729/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/rajbhoyar729/leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/rajbhoyar729/leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/rajbhoyar729/leetcode/tree/master/0952-word-subsets) |
